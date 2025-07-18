@@ -1,53 +1,168 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "GeneticBPE: Motif-Preserving Tokenization for Robust miRNA Modeling",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Prabhav Sanga*",
+        "Jaskaran Singh*",
+        "Arun K. Dubey†"
+        
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "TokShop ICML'25",
+      "thumbnail": "images/thumbs/image.png",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://openreview.net/pdf?id=jLIKfphGOy",
+        "code": "https://github.com/sangaprabhav/GeneticBPE"
+        
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Train Once, Forget Precisely: Anchored Optimization for Efficient Post-Hoc Unlearning",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "Prabhav Sanga*",
+        "Jaskaran Singh*",
+        "Arun K. Dubey†"
+        
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "venue": "MUGen ICML'25",
+      "thumbnail": "images/thumbs/image1.png",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://arxiv.org/pdf/2506.14515",
+        "code": "https://github.com/sangaprabhav/FAMR"
+        
       }
-    }
+    },
+    {
+      "title": "Get a GRIP on Test Time Adaptation! - Group Robust Inference-Time Policy Optimization for Vision Models",
+      "authors": [
+        "Prabhav Sanga*",
+        "Jaskaran Singh*",
+        "Tapabrata Chakraborty†"
+        
+      ],
+      "venue": "ViSCALE CVPR'25",
+      "thumbnail": "images/thumbs/image4.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://openaccess.thecvf.com/content/CVPR2025W/ViSCALE/papers/Sanga_Get_a_GRIP_on_Test_Time_Adaptation_-_Group_Robust_CVPRW_2025_paper.pdf"
+      }
+    },
+    {
+        "title": "Anchored to Remember, Designed to Forget: FAMR++ for Post-Hoc Style and Class Removal",
+        "authors": [
+          "Prabhav Sanga*",
+          "Jaskaran Singh*",
+          "Rachna Tewani",
+          "Arun K. Dubey†"
+          
+        ],
+        "venue": "Under Review: U&Me ICCV'25",
+        "thumbnail": "images/thumbs/image2.png",
+        "selected": 0,
+        "award": "",
+        "links": {
+          
+          
+        }
+
+    },
+    {
+      "title": "TAUSR-CO: Texture-Attentive Ultrasound Super-Resolution with Contrast Optimization",
+      "authors": [
+        "Prabhav Sanga*",
+        "Jaskaran Singh*",
+        "Tapabrata Chakraborty†"
+        
+      ],
+      "venue": "Under Review: BMVC'25",
+      "thumbnail": "images/thumbs/image3.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        
+        
+      }
+    },
+    {
+      "title": "TextAI 3.0 (Multimodal): multimodal sentiment analysis using attention-enabled ensemble-based deep learning in hyperbolic space",
+      "authors": [
+        "Jaskaran Singh*",
+        "Prabhav Sanga*",
+        "Narendra N Khanna",
+        "John R Laird",
+        "Inder M Singh",
+        "Mannudeep K Kalra",
+        "Laura E Mantella",
+        "Amer M Johri",
+        "Gavino Faa",
+        "Ekta Tiwari",
+        "Rajesh Singh",
+        "Mohamed Abbas",
+        "Luca Saba",
+        "Jasjit S Suri†"
+        
+      ],
+      "venue": "Springer Nature IJIT",
+      "thumbnail": "images/thumbs/image5.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://link.springer.com/article/10.1007/s41870-025-02541-w"
+        
+      }
+    },
+    {
+      "title": "Unmasking Depression via Attention-modulated Text Analysis using Deep Learning",
+        "authors": [
+          "Prabhav Sanga*",
+          "Jaskaran Singh*",
+          "Prakhar Priyadarshi†"
+          
+        ],
+        "venue": "ICCSAI'23",
+        "thumbnail": "images/thumbs/image6.png",
+        "selected": 0,
+        "award": "",
+        "links": {
+          "pdf": "https://ieeexplore.ieee.org/abstract/document/10421176"
+          
+          
+        }
+      },
+      {
+        "title": "TextAI 3.0 (Multimodal): multimodal sentiment analysis using attention-enabled ensemble-based deep learning in hyperbolic space",
+        "authors": [
+          "Prabhav Sanga*",
+          "Jaskaran Singh*",
+          "Arun K. Dubey",
+          "Narendra N Khanna",
+          "John R Laird",
+          "Gavino Faa",
+          "Inder M Singh",
+          "Georgios Tsoulfas",
+          "Mannudeep K Kalra",
+          "Jagjit S. Teji", 
+          "Mustafa Al-Maini",
+          "Vijay Rathore",
+          "Vikas Agarwal",
+          "Puneet Alhuwalia",
+          "Mostafa M. Fouda",
+          "Luca Saba",
+          "Jasjit S Suri†"
+        ],
+        "venue": "MDPI Diagnostics",
+        "thumbnail": "images/thumbs/image7.png",
+        "selected": 0,
+        "award": "",
+        "links": {
+          "pdf": "https://www.mdpi.com/2075-4418/13/19/3159"
+          
+        }
+      }
   ]
 }
